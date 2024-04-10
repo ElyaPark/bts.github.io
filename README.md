@@ -40,22 +40,22 @@
   <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
     <div class="bg-dark p-4 d-flex justify-content-between align-items-center" style="background-color: rgba(0, 0, 0, 0.5);">
       <div class="container-list">
-        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Main.html" class="b1 text-white">Главная</a>
+        <a href="Main.html" class="b1 text-white">Главная</a>
         <a href="#" class="b2 text-white">История</a>
-        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Музыка.html" class="b3 text-white">Музыка</a>
+        <a href="Музыка.html" class="b3 text-white">Музыка</a>
         <a href="#" class="b4 text-white">Видео</a>
         <a href="#" class="b5 text-white">Фан-контент</a>
         <a href="#" class="b6 text-white">О нас</a>
       </div>
       <div class="container-menu d-flex justify-content-end">
-        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Регистрация.html" class="badge badge-pill badge-primary">Регистрация</a>
-        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Вход.html" class="badge badge-pill badge-secondary">Вход</a>
+        <a href="Регистрация.html" class="badge badge-pill badge-primary">Регистрация</a>
+        <a href="Вход.html" class="badge badge-pill badge-secondary">Вход</a>
       </div>
     </div>
   </div>
   <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
-      <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/бтслого1.png" alt="Ваше изображение" style="max-height: 50px; margin: auto; display: block;">
+      <img src="img/бтслого1.png" alt="Ваше изображение" style="max-height: 50px; margin: auto; display: block;">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -84,7 +84,7 @@
         <img src="img/чимин карусель.png" class="d-block w-100" alt="Slide 2">
       </div>
       <div class="carousel-item">
-        <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/техен%20карусель.png" class="d-block w-100" alt="Slide 3">
+        <img src="img/техен карусель.png" class="d-block w-100" alt="Slide 3">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
