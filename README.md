@@ -81,7 +81,7 @@
         <img src="img/чонгук карусель.png" class="d-block w-100" alt="Slide 1">
       </div>
       <div class="carousel-item">
-        <img src=".../img/чимин%20карусель.png" class="d-block w-100" alt="Slide 2">
+        <img src="img/чимин карусель.png" class="d-block w-100" alt="Slide 2">
       </div>
       <div class="carousel-item">
         <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/техен%20карусель.png" class="d-block w-100" alt="Slide 3">
