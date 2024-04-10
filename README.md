@@ -81,7 +81,7 @@
         <img src="[file:///C:/Users/Pobeda304/Desktop/сайт1/img/чонгук%20карусель.png](https://github.com/ElyaPark/bts.github.io/blob/main/img/чонгук%20карусель.png?raw=true)" class="d-block w-100" alt="Slide 1">
       </div>
       <div class="carousel-item">
-        <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/чимин%20карусель.png" class="d-block w-100" alt="Slide 2">
+        <img src=".../img/чимин%20карусель.png" class="d-block w-100" alt="Slide 2">
       </div>
       <div class="carousel-item">
         <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/техен%20карусель.png" class="d-block w-100" alt="Slide 3">
