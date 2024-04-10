@@ -1,0 +1,35 @@
+body{
+    height: 600px;
+}
+
+
+
+
+main {
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+form {
+    width:  800px;
+    
+}
+.form-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.form-row1{
+display: block;
+justify-content: center;
+align-items: center;  
+}
+.form-row2{
+    display: block;
+    justify-content: center;
+    align-items: center;  
+    }
